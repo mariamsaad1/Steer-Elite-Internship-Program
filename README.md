@@ -11,3 +11,16 @@ This is a console-based version of the classic Mastermind game written in C#. Th
   - How many digits exist but in the wrong position (misplaced)
 - Win by guessing the correct code 🎉🎉🎉
 
+💡 How to Run
+Compile:
+csc Program.cs
+
+📌 Example
+Can you break the code? Enter a valid guess.
+Round 0
+>1456
+Well placed pieces: 0
+Misplaced pieces: 1
+Round 1
+>1234
+Congratz! You did it!
