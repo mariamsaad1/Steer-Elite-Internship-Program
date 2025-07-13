@@ -1,0 +1,15 @@
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/bin/Debug/net8.0/SteerElite
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/bin/Debug/net8.0/SteerElite.deps.json
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/bin/Debug/net8.0/SteerElite.runtimeconfig.json
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/bin/Debug/net8.0/SteerElite.dll
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/bin/Debug/net8.0/SteerElite.pdb
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/obj/Debug/net8.0/SteerElite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/obj/Debug/net8.0/SteerElite.AssemblyInfoInputs.cache
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/obj/Debug/net8.0/SteerElite.AssemblyInfo.cs
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/obj/Debug/net8.0/SteerElite.csproj.CoreCompileInputs.cache
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/obj/Debug/net8.0/SteerElite.sourcelink.json
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/obj/Debug/net8.0/SteerElite.dll
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/obj/Debug/net8.0/refint/SteerElite.dll
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/obj/Debug/net8.0/SteerElite.pdb
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/obj/Debug/net8.0/SteerElite.genruntimeconfig.cache
+/Users/mariamalamer/Documents/GitHub/Steer-Elite-Internship-Program/SteerElite/SteerElite/obj/Debug/net8.0/ref/SteerElite.dll
